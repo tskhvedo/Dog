@@ -1154,7 +1154,7 @@ body {
     display: flex;
     justify-content: center;
     margin: 0px;
-    width: 288px;
+    width: 250px;
   }
   .listebi ul {
     width: 288px;
@@ -1194,7 +1194,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    transform: translate(17px, -35px);
+    transform: translate(12px, -35px);
   }
   .tema2 p {
     font-size: 16px;
@@ -1268,10 +1268,12 @@ body {
     font-size: 15px;
   }
   .catdogg {
-    transform: translate(1px, 1px);
+    transform: translate(0px, 0px);
     display: flex;
     justify-content: center;
+    width: 298px;
   }
+
   .catdog img {
     width: 163px;
   }
