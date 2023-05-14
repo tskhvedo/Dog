@@ -1127,12 +1127,12 @@ body {
     margin: 0px 0px 0px 0px;
   }
   .pirveligverdi {
-    width: 360px;
+    width: 300px;
   }
   .header {
     height: 200px;
     margin: 0 auto;
-    width: 360px;
+    width: 300px;
 
     flex-direction: column;
     align-items: center;
@@ -1141,10 +1141,10 @@ body {
   }
   .header1 {
     height: 71px;
-    width: 360px;
+    width: 300px;
   }
   .sat {
-    width: 360px;
+    width: 300px;
     margin: 0px;
     display: flex;
     flex-direction: column;
@@ -1154,24 +1154,25 @@ body {
     display: flex;
     justify-content: center;
     margin: 0px;
-    width: 360px;
+    width: 288px;
   }
   .listebi ul {
-    width: 300px;
+    width: 288px;
     justify-content: center;
     align-items: center;
+    transform: translate(14px, 0px);
   }
 
   .main2 {
-    width: 360px;
+    width: 300px;
     height: 600px;
   }
   .main21 {
-    width: 360px;
+    width: 300px;
     display: flex;
   }
   .tema1 {
-    width: 360px;
+    width: 300px;
     margin: 0px;
     display: flex;
     justify-content: center;
@@ -1188,7 +1189,7 @@ body {
     align-items: center;
   }
   .tema2 {
-    width: 283px;
+    width: 265px;
     margin: 0px;
     display: flex;
     justify-content: center;
@@ -1203,7 +1204,7 @@ body {
   }
   .cuga {
     display: flex;
-    width: 360px;
+    width: 300px;
     height: 328px;
     margin: 0 auto;
     flex-direction: column;
@@ -1213,18 +1214,18 @@ body {
     align-items: center;
   }
   .cuga img {
-    width: 322px;
+    width: 300px;
     height: 322px;
-    transform: translateY(52px);
+    transform: translateY(0px, 52px);
   }
   .naw2 {
-    width: 360px;
+    width: 300px;
     height: 870px;
     display: flex;
     margin: 0 auto;
   }
   .page2 {
-    width: 360px;
+    width: 300px;
     height: 943px;
     justify-content: center;
     align-items: center;
@@ -1233,7 +1234,7 @@ body {
     display: inline-flex;
   }
   .spp {
-    width: 360px;
+    width: 300px;
     height: 512px;
 
     justify-content: center;
@@ -1241,7 +1242,7 @@ body {
     transform: translate(0px, 0px);
   }
   .sppp {
-    width: 360px;
+    width: 300px;
     height: 324px;
     gap: 28px;
     justify-content: center;
@@ -1251,20 +1252,20 @@ body {
     transform: translateY(68px);
   }
   .paragraf {
-    width: 310px;
+    width: 300px;
   }
 
   .satauri H1 {
     font-size: 23px;
   }
   .paragraf p {
-    font-size: 16px;
+    font-size: 15px;
   }
   .paragraf2 {
-    width: 310px;
+    width: 300px;
   }
   .paragraf2 p {
-    font-size: 16px;
+    font-size: 15px;
   }
   .catdogg {
     transform: translate(1px, 1px);
@@ -1274,12 +1275,7 @@ body {
   .catdog img {
     width: 163px;
   }
-  .page3feri {
-    display: block;
-    justify-content: center;
-    align-items: center;
-    transform: translate(0px, 0px);
-  }
+
   .page3 {
     width: 200px;
     height: 115px;
@@ -1305,7 +1301,7 @@ body {
     margin: 0 auto;
   }
   .cardlistebi {
-    width: 360px;
+    width: 300px;
     display: flex;
     margin: 0 auto;
   }
@@ -1314,7 +1310,7 @@ body {
     justify-content: center;
     align-items: center;
     margin: 0 auto;
-    width: 360px;
+    width: 300px;
   }
   .cardlist2 {
     justify-content: center;
@@ -1326,26 +1322,30 @@ body {
     display: none;
   }
   .page4 {
-    width: 360px;
+    width: 300px;
+  }
+  .get1 {
+    width: 200px;
   }
   .page5feri {
-    width: 360px;
+    width: 300px;
+    height: 239px;
   }
   .page5 {
-    width: 360px;
+    width: 300px;
   }
   .page67 {
-    width: 360px;
+    width: 300px;
     margin: 0 auto;
   }
   .page6feri {
-    width: 180px;
+    width: 150px;
   }
   .page6 {
-    width: 180px;
+    width: 150px;
   }
   .pagee6 {
-    width: 180px;
+    width: 150px;
   }
 
   .pet img {
@@ -1385,17 +1385,17 @@ body {
   }
 
   .page7feri {
-    width: 180px;
+    width: 150px;
     height: 500px;
   }
   .page7 {
-    width: 180px;
+    width: 150px;
     height: 500px;
     display: flex;
     flex-direction: column;
   }
   .pagee7 {
-    width: 180px;
+    width: 150px;
     height: 500px;
     gap: 39px;
     display: flex;
@@ -1437,20 +1437,24 @@ body {
     display: flex;
   }
   .page8 {
-    width: 360px;
+    width: 300px;
     flex-direction: column-reverse;
     display: flex;
     justify-content: center;
     align-items: center;
   }
   .pagee {
-    height: 300px;
+    height: 500px;
+    width: 300px;
     justify-content: center;
     align-items: center;
     transform: translate(0px, 0px);
   }
   .legal {
-    width: 350px;
+    width: 300px;
+  }
+  .iban img {
+    width: 300px;
   }
   .dogpic {
     height: 200px;
@@ -1464,11 +1468,9 @@ body {
   }
   .bolosurati {
     height: 878px;
-    margin: 0 auto;
-    background-size: cover;
   }
   .page9 {
-    width: 360px;
+    width: 300px;
     height: 874px;
     display: flex;
     flex-direction: column;
@@ -1499,10 +1501,12 @@ body {
     font-weight: 400;
   }
   .mail {
-    transform: translate(25px, 28px);
+    width: 250px;
+    transform: translate(0px, 28px);
   }
   .telefono {
-    transform: translate(25px, 66px);
+    width: 250px;
+    transform: translate(0px, 66px);
   }
 
   .sveti2 {
@@ -1528,13 +1532,15 @@ body {
     font-weight: 400;
   }
   .locazia1 {
-    transform: translate(20px, 32px);
+    width: 250px;
+    transform: translate(0px, 32px);
   }
   .locazia2 {
-    transform: translate(20px, 75px);
+    width: 250px;
+    transform: translate(0px, 75px);
   }
   .sveti3 {
-    width: 360px;
+    width: 300px;
     height: 362px;
     display: flex;
     justify-content: center;
@@ -1542,7 +1548,7 @@ body {
     transform: translate(0px, 0px);
   }
   .sveti3 img {
-    height: 359px;
-    transform: translate(0px, 4px);
+    height: 276px;
+    transform: translate(0px, 40px);
   }
 }
