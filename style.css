@@ -398,6 +398,7 @@ body {
 .our h3 {
   font-weight: 400;
 }
+
 .page6 {
   background-color: white;
 }
@@ -1126,12 +1127,12 @@ body {
     margin: 0px 0px 0px 0px;
   }
   .pirveligverdi {
-    width: 500px;
+    width: 360px;
   }
   .header {
     height: 200px;
     margin: 0 auto;
-    width: 500px;
+    width: 360px;
 
     flex-direction: column;
     align-items: center;
@@ -1140,9 +1141,10 @@ body {
   }
   .header1 {
     height: 71px;
+    width: 360px;
   }
   .sat {
-    width: 500px;
+    width: 360px;
     margin: 0px;
     display: flex;
     flex-direction: column;
@@ -1152,18 +1154,24 @@ body {
     display: flex;
     justify-content: center;
     margin: 0px;
+    width: 360px;
+  }
+  .listebi ul {
+    width: 300px;
+    justify-content: center;
+    align-items: center;
   }
 
   .main2 {
-    width: 500px;
+    width: 360px;
     height: 600px;
   }
   .main21 {
-    width: 500px;
+    width: 360px;
     display: flex;
   }
   .tema1 {
-    width: 400px;
+    width: 360px;
     margin: 0px;
     display: flex;
     justify-content: center;
@@ -1180,19 +1188,22 @@ body {
     align-items: center;
   }
   .tema2 {
-    width: 400px;
+    width: 283px;
     margin: 0px;
     display: flex;
     justify-content: center;
     align-items: center;
     transform: translate(17px, -35px);
   }
+  .tema2 p {
+    font-size: 16px;
+  }
   .btn {
     margin: 0px;
   }
   .cuga {
     display: flex;
-    width: 500px;
+    width: 360px;
     height: 328px;
     margin: 0 auto;
     flex-direction: column;
@@ -1207,69 +1218,94 @@ body {
     transform: translateY(52px);
   }
   .naw2 {
-    width: 500px;
-    height: 700px;
+    width: 360px;
+    height: 870px;
     display: flex;
     margin: 0 auto;
   }
   .page2 {
-    width: 500px;
-    height: 700px;
+    width: 360px;
+    height: 943px;
     justify-content: center;
     align-items: center;
     margin: 0 auto;
     flex-direction: column-reverse;
     display: inline-flex;
   }
-  .sp {
-    width: 600px;
-    height: 580px;
-
-    flex-direction: column-reverse;
-
-    justify-content: center;
-    align-items: center;
-  }
   .spp {
-    width: 500px;
-    height: 425px;
+    width: 360px;
+    height: 512px;
 
     justify-content: center;
     align-items: center;
     transform: translate(0px, 0px);
   }
   .sppp {
-    width: 500px;
+    width: 360px;
     height: 324px;
-
+    gap: 28px;
     justify-content: center;
     align-items: center;
     display: flex;
     flex-direction: column;
     transform: translateY(68px);
   }
+  .paragraf {
+    width: 310px;
+  }
 
   .satauri H1 {
-    font-size: 28px;
+    font-size: 23px;
   }
   .paragraf p {
+    font-size: 16px;
+  }
+  .paragraf2 {
+    width: 310px;
   }
   .paragraf2 p {
+    font-size: 16px;
   }
-  .catdog {
+  .catdogg {
     transform: translate(1px, 1px);
     display: flex;
     justify-content: center;
   }
   .catdog img {
+    width: 163px;
+  }
+  .page3feri {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    transform: translate(0px, 0px);
+  }
+  .page3 {
     width: 200px;
+    height: 115px;
+    margin: 0 auto;
+    display: block;
+    justify-content: center;
+    align-items: center;
+  }
+  .mesame1 {
+    width: 232px;
+    display: block;
+    flex-direction: column;
+    transform: translate(0px, 31px);
+  }
+  #erti {
+    font-size: 22px;
+  }
+  #ori {
+    font-size: 22px;
   }
 
   .cardlistebiferi {
     margin: 0 auto;
   }
   .cardlistebi {
-    width: 500px;
+    width: 360px;
     display: flex;
     margin: 0 auto;
   }
@@ -1278,7 +1314,7 @@ body {
     justify-content: center;
     align-items: center;
     margin: 0 auto;
-    width: 500px;
+    width: 360px;
   }
   .cardlist2 {
     justify-content: center;
@@ -1289,41 +1325,29 @@ body {
   .cardlist3 {
     display: none;
   }
-  .page3 {
-    width: 410px;
-  }
-  .page4feri {
-    margin: 0 auto;
-  }
   .page4 {
-    width: 500px;
+    width: 360px;
   }
   .page5feri {
-    margin: 0 auto;
+    width: 360px;
   }
   .page5 {
-    width: 500px;
+    width: 360px;
+  }
+  .page67 {
+    width: 360px;
     margin: 0 auto;
   }
   .page6feri {
-    width: 300px;
-    height: 500px;
+    width: 180px;
   }
   .page6 {
-    width: 300px;
-    height: 500px;
-    display: flex;
-    flex-direction: column;
+    width: 180px;
   }
   .pagee6 {
-    width: 300px;
-    height: 500px;
-    gap: 40px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    width: 180px;
   }
+
   .pet img {
     height: 50px;
   }
@@ -1359,25 +1383,19 @@ body {
     font-size: 19px;
     font-weight: 400;
   }
-  .page67 {
-    display: flex;
-    justify-content: center;
-    align-items: center;
 
-    height: 600px;
-  }
   .page7feri {
-    width: 211px;
+    width: 180px;
     height: 500px;
   }
   .page7 {
-    width: 177px;
+    width: 180px;
     height: 500px;
     display: flex;
     flex-direction: column;
   }
   .pagee7 {
-    width: 187px;
+    width: 180px;
     height: 500px;
     gap: 39px;
     display: flex;
@@ -1419,7 +1437,7 @@ body {
     display: flex;
   }
   .page8 {
-    width: 600px;
+    width: 360px;
     flex-direction: column-reverse;
     display: flex;
     justify-content: center;
@@ -1431,13 +1449,16 @@ body {
     align-items: center;
     transform: translate(0px, 0px);
   }
+  .legal {
+    width: 350px;
+  }
   .dogpic {
     height: 200px;
     transform: translate(0px, 0px);
     display: flex;
   }
   .dogpic img {
-    height: 200px;
+    height: 150px;
     align-items: center;
     justify-content: center;
   }
@@ -1447,7 +1468,7 @@ body {
     background-size: cover;
   }
   .page9 {
-    width: 500px;
+    width: 360px;
     height: 874px;
     display: flex;
     flex-direction: column;
@@ -1513,7 +1534,7 @@ body {
     transform: translate(20px, 75px);
   }
   .sveti3 {
-    width: 400px;
+    width: 360px;
     height: 362px;
     display: flex;
     justify-content: center;
