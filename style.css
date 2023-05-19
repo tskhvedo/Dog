@@ -832,7 +832,6 @@ body {
   .sppp {
     width: 600px;
     height: 324px;
-
     justify-content: center;
     align-items: center;
     display: flex;
@@ -1156,11 +1155,13 @@ body {
     margin: 0px;
     width: 250px;
   }
+  .listebi {
+    margin: 0px;
+  }
   .listebi ul {
     width: 288px;
     justify-content: center;
     align-items: center;
-    transform: translate(14px, 0px);
   }
 
   .main2 {
