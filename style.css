@@ -66,12 +66,10 @@ body {
   border-bottom: 3px solid #f1cdb3;
   cursor: pointer;
 }
-.cuga {
-  transform: translate(532px, -21px);
-}
-.cuga img {
-  width: 571px;
-  transform: translate(0px, 0px);
+.main2 img {
+  width: 698px;
+  width: 728px;
+  transform: translate(501px, -185px);
 }
 
 .main2 {
@@ -1166,7 +1164,12 @@ body {
 
   .main2 {
     width: 300px;
-    height: 600px;
+    height: 714px;
+  }
+  .main2 img {
+    width: 260px;
+    height: 270px;
+    transform: translate(0px, 0px);
   }
   .main21 {
     width: 300px;
@@ -1217,7 +1220,7 @@ body {
   .cuga img {
     width: 300px;
     height: 322px;
-    transform: translateY(0px, 52px);
+    transform: translateY(0px, 0px);
   }
   .naw2 {
     width: 300px;
